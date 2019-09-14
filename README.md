@@ -1,2 +1,3 @@
 # master
-alin
+$ git checkout master
+
